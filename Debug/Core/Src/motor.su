@@ -1,0 +1,9 @@
+../Core/Src/motor.c:7:6:initMotor	16	static
+../Core/Src/motor.c:13:6:stopMotor	16	static
+../Core/Src/motor.c:18:6:standByMode	8	static
+../Core/Src/motor.c:22:6:setDutyCycle	32	static
+../Core/Src/motor.c:32:6:setMotorPWM	24	static
+../Core/Src/motor.c:45:6:readEncoder	16	static
+../Core/Src/motor.c:51:6:calculateRPM	24	static
+../Core/Src/motor.c:66:6:PID_Init	16	static
+../Core/Src/motor.c:81:7:PID_Calculation	32	static
